@@ -1,0 +1,15 @@
+* {
+    color: salmon;
+    background-color: seagreen;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.recipe {
+    color: steelblue;
+    background-color: orangered;
+}
